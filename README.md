@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,2,6&height=300&section=header&text=DSA%20LAB%20VAULT&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9A%A1%20Where%20algorithms%20are%20built%2C%20broken%20%26%20mastered%20%E2%9A%A1&descAlignY=60&descSize=22" width="100%"/>
+<img src="./assets/banner.svg" width="100%" alt="DSA Lab Vault banner"/>
+
+<br/>
 
 <a href="https://github.com/SumaiyaAbubakar/DSA-Lab-Vault">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=600&color=00F5FF&center=true&vCenter=true&multiline=false&width=820&height=55&lines=%F0%9F%9A%80+Data+Structures+%26+Algorithms+Lab+Archive;%F0%9F%A7%A0+Arrays+%E2%86%92+Lists+%E2%86%92+Stacks+%E2%86%92+Queues+%E2%86%92+Trees;%F0%9F%94%A5+Every+lab.+Every+task.+One+vault.;%E2%9A%A1+Think+%E2%80%A2+Code+%E2%80%A2+Debug+%E2%80%A2+Optimize;%F0%9F%8C%B1+Growing+with+every+new+lab" alt="Typing animation" />
@@ -18,14 +20,14 @@
 <br/><br/>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=SumaiyaAbubakar.DSA-Lab-Vault&left_color=%23ff6ec7&right_color=%2300b4d8" />
-<img src="https://img.shields.io/github/stars/SumaiyaAbubakar/DSA-Lab-Vault?style=for-the-badge&color=FFD600&logo=github" />
-<img src="https://img.shields.io/github/forks/SumaiyaAbubakar/DSA-Lab-Vault?style=for-the-badge&color=00E676&logo=github" />
-<img src="https://img.shields.io/github/last-commit/SumaiyaAbubakar/DSA-Lab-Vault?style=for-the-badge&color=FF6EC7&logo=git&logoColor=white" />
-<img src="https://img.shields.io/github/repo-size/SumaiyaAbubakar/DSA-Lab-Vault?style=for-the-badge&color=2979FF" />
+<img src="https://img.shields.io/github/stars/SumaiyaAbubakar/DSA-Lab-Vault?style=for-the-badge&color=FFD600&logo=github&v=3" />
+<img src="https://img.shields.io/github/forks/SumaiyaAbubakar/DSA-Lab-Vault?style=for-the-badge&color=00E676&logo=github&v=3" />
+<img src="https://img.shields.io/github/last-commit/SumaiyaAbubakar/DSA-Lab-Vault?style=for-the-badge&color=FF6EC7&logo=git&logoColor=white&v=3" />
+<img src="https://img.shields.io/github/repo-size/SumaiyaAbubakar/DSA-Lab-Vault?style=for-the-badge&color=2979FF&v=3" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&customColorList=12,20,24,2,6&height=4" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <h2 align="center">📑 QUICK MENU</h2>
 
@@ -35,7 +37,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&customColorList=6,12,20,24,2&height=4" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <h2 align="center">🧠 ABOUT THE VAULT</h2>
 
@@ -54,13 +56,14 @@ Every task is organized, version-controlled, and built to keep growing with each
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&customColorList=24,20,12,6,2&height=4" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <h2 align="center">🗺️ VAULT MAP</h2>
 
 ```text
 📦 DSA-Lab-Vault
  ┃
+ ┣ 🌈 assets                       → Banner & visuals
  ┣ 🔥 DSA LAB MID PRACTICE CODES   → Mid-term revision problems
  ┣ 📘 LAB TASK 01                  → Lab 1 solutions
  ┣ 📗 LAB TASK 02                  → Lab 2 solutions
@@ -82,7 +85,7 @@ Every task is organized, version-controlled, and built to keep growing with each
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&customColorList=2,6,12,20,24&height=4" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <h2 align="center">🧭 LEARNING JOURNEY</h2>
 
@@ -119,7 +122,7 @@ timeline
         Future Labs : Added as they happen
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&customColorList=12,20,24,2,6&height=4" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <h2 align="center">📊 PROGRESS TRACKER</h2>
 
@@ -136,7 +139,7 @@ timeline
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&customColorList=24,2,6,12,20&height=4" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <h2 align="center">🧩 CONCEPTS MINDMAP</h2>
 
@@ -166,7 +169,7 @@ mindmap
 
 > 📝 *Edit this mindmap to match exactly what your labs cover.*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&customColorList=6,12,20,24,2&height=4" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <h2 align="center">⚡ BIG-O CHEAT SHEET</h2>
 
@@ -184,7 +187,7 @@ mindmap
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&customColorList=20,24,2,6,12&height=4" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <h2 align="center">💻 FEATURED SNIPPET</h2>
 
@@ -201,11 +204,11 @@ int binarySearch(int arr[], int size, int key) {
     while (low <= high) {
         int mid = low + (high - low) / 2;   // avoids integer overflow
 
-        if (arr[mid] == key)      return mid;      // 🎯 found it
-        else if (arr[mid] < key)  low = mid + 1;   // 👉 search right half
-        else                      high = mid - 1;  // 👈 search left half
+        if (arr[mid] == key)      return mid;      // found it
+        else if (arr[mid] < key)  low = mid + 1;   // search right half
+        else                      high = mid - 1;  // search left half
     }
-    return -1;                                     // ❌ not found
+    return -1;                                     // not found
 }
 
 int main() {
@@ -216,7 +219,7 @@ int main() {
 }
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&customColorList=2,6,12,20,24&height=4" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <h2 align="center">▶️ RUN ANY LAB</h2>
 
@@ -237,7 +240,7 @@ output.exe        # Windows
 
 > 💡 Replace `filename.cpp` with the file you want to run.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&customColorList=24,12,6,20,2&height=4" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <h2 align="center">🛠️ TOOLKIT</h2>
 
@@ -251,13 +254,13 @@ output.exe        # Windows
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&customColorList=12,20,24,2,6&height=4" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <h2 align="center">🏆 STATS & TROPHIES</h2>
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=SumaiyaAbubakar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=SumaiyaAbubakar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumaiyaAbubakar&layout=compact&theme=radical&hide_border=true" />
 
 <br/>
@@ -274,7 +277,7 @@ output.exe        # Windows
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&customColorList=6,12,20,24,2&height=4" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <h2 align="center">⭐ STAR HISTORY</h2>
 
@@ -286,7 +289,7 @@ output.exe        # Windows
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&customColorList=20,24,2,6,12&height=4" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <h2 align="center">🤝 CONNECT & SUPPORT</h2>
 
@@ -301,10 +304,10 @@ If this vault helps your revision, drop a ⭐ — it keeps me building!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=18&pause=1500&color=FFD54F&center=true&vCenter=true&width=720&lines=%22First+solve+the+problem.+Then+write+the+code.%22;%22Make+it+work.+Make+it+right.+Make+it+fast.%22;%22Every+bug+fixed+is+a+lesson+earned.%22" />
 
-<br/><br/>
+<br/>
 
 ### 👩‍💻 Crafted with 💜 by **Sumaiya Abubakar**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,2,6&height=160&section=footer&animation=twinkling" width="100%"/>
+<img src="./assets/footer.svg" width="100%" alt="footer wave"/>
 
 </div>
