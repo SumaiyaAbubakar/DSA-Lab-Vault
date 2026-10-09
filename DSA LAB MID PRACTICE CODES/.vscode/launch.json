@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Sumaiya Abubakar/OneDrive - FAST National University/Documents/3rd Semester/DSA LAB/DSA MID LAB PRACTICE QUES",
-      "program": "c:/Users/Sumaiya Abubakar/OneDrive - FAST National University/Documents/3rd Semester/DSA LAB/DSA MID LAB PRACTICE QUES/build/Debug/outDebug",
+      "cwd": "c:/Users/Sumaiya Abubakar/OneDrive - FAST National University/Documents/3rd Semester/DSA LAB/DSA LAB MID PRACTICE CODES",
+      "program": "c:/Users/Sumaiya Abubakar/OneDrive - FAST National University/Documents/3rd Semester/DSA LAB/DSA LAB MID PRACTICE CODES/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
