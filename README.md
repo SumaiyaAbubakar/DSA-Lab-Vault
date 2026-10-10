@@ -269,11 +269,14 @@ output.exe        # Windows
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SumaiyaAbubakar&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=6" />
+<img src="https://ghchart.rshah.org/00e5ff/SumaiyaAbubakar" width="90%" alt="Contribution chart"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SumaiyaAbubakar&theme=react-dark&hide_border=true&area=true&color=ff6ec7&line=00e5ff&point=ffffff" width="100%"/>
+<img src="https://img.shields.io/github/followers/SumaiyaAbubakar?style=for-the-badge&color=FF6EC7&logo=github" />
+<img src="https://img.shields.io/github/languages/top/SumaiyaAbubakar/DSA-Lab-Vault?style=for-the-badge&color=00B4D8&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/github/languages/count/SumaiyaAbubakar/DSA-Lab-Vault?style=for-the-badge&color=00E676" />
+<img src="https://img.shields.io/github/commit-activity/m/SumaiyaAbubakar/DSA-Lab-Vault?style=for-the-badge&color=FFD600&logo=git&logoColor=black" />
 
 </div>
 
