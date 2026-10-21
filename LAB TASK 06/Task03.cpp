@@ -11,6 +11,15 @@ struct Student
     int maxTokens;
     int allocated;
 };
+
+bool checkStudentRestriction(Student students[]);
+bool AllocateTokens(Student students[], int n, int index, int threshold, int totalTokens);
+bool checkPriorityTotal(Student students[], int n, int threshold);
+bool CheckMinMax(Student students[], int n);
+bool CheckTokenSupply(Student students[], int n, int totalTokens);
+void displayCategoryTotals(Student students[], int n);
+bool checkCategoryLimit(Student students[], int n);
+
 bool checkStudentRestriction(Student students[])
 {
     return students[0].allocated > students[1].allocated;
